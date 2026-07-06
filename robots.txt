@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://home-renovations-sydney-guide.onrender.com/sitemap.xml
+Sitemap: https://home-renovations-sydney.onrender.com/sitemap.xml
