@@ -1,10 +1,10 @@
 ```
 EDITORIAL: PASS
-scores: depth=4 readability=4 usefulness=4 uniqueness=4 tone=4 total=20/25
+scores: depth=4 readability=4 usefulness=4 uniqueness=4 tone=5 total=21/25
 notes:
-- depth: ok — suburb-specific approval contrasts (Paddington heritage vs Castle Hill vs Cronulla) add real info gain
-- readability: ok — clear pacing, no AI cadence
-- usefulness: ok — concrete "bring to first call" checklist actionable
-- uniqueness: ok — specific examples avoid template-smell
-- tone: ok — no dashes, AU spelling, money-site described as specialist team not funnel language
+- depth: ok, real suburb-specific detail (heritage overlay vs addition vs coastal access)
+- readability: ok, natural flow
+- usefulness: ok, concrete "bring these 5 things" checklist
+- uniqueness: ok, not template-spun
+- tone: ok, no dashes, AU spelling, no funnel language re money domain
 ```
