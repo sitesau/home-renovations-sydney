@@ -1,12 +1,24 @@
+Fact-checking claims against money page text.
+
 | Claim | Verdict | Evidence |
 |---|---|---|
-| Whole-home reno $150k–several hundred thousand | SUPPORTED | Money text: "full whole-home renovation with structural change...runs from around $150,000 into the several hundred thousands" |
-| Budget kitchen refresh low-mid tens of thousands, no layout change | SUPPORTED | Money text: "budget kitchen refresh - new doors, benchtop and splashback with no layout change - often starts in the low-to-mid tens of thousands" |
-| Mid-range kitchen higher, premium custom joinery higher again | SUPPORTED | Money text: "mid-range full kitchen...typically lands higher, and premium custom joinery...higher again" |
-| Bathroom cost driven by size, tiling, layout change, fixture quality | SUPPORTED | Money text: "Bathroom cost is driven by size, tiling extent, whether the layout moves and the quality of fixtures" |
-| AS 3740 waterproofing non-negotiable | SUPPORTED | Money text verbatim match |
-| Heritage terraces/harbourside/beachside/project homes/apartments covered | SUPPORTED | Money text: "Right fit for your home type" section lists same list |
-| Written contract: scope/price/programme/exclusions before work | SUPPORTED | Money text: "Written contract before work begins" section, verbatim |
-| Council pathways/waterproofing/structural work upfront before pricing | SUPPORTED | Money text: "Approval details handled early" section, verbatim |
+| Groups work into whole-home, kitchen, bathroom, extension, granny flat, heritage or terrace work | SUPPORTED | matches "whole-home, kitchen, bathroom, extension, granny flat, heritage or terrace work" |
+| Approvals, structural work and finish quality considered together before pricing | SUPPORTED | direct match in source |
+| Builder credentials, insurance details and written scope should be clear before work starts | SUPPORTED | direct match "Builder credentials, insurance details and written scope should be clear before work starts" |
+| Quoting contractor sets out scope, price, programme and exclusions in writing before build decision | SUPPORTED | matches "sets out the scope, price, programme and exclusions in writing so you can decide" |
+| Right fit for home type across heritage terraces, harbourside homes, beachside units, project homes and apartments | SUPPORTED | direct match |
+| Council pathways, waterproofing and structural work considered upfront | SUPPORTED | direct match |
+| Cosmetic refresh of few rooms sits in tens of thousands | SUPPORTED | matches "cosmetic refresh of a few rooms can sit in the tens of thousands" |
+| Whole-home reno w/ structural change runs ~$150,000 into several hundred thousands | SUPPORTED | direct match |
+| Materials usually largest single cost, labour significant share | SUPPORTED | direct match |
+| Budget kitchen refresh starts low-to-mid tens of thousands | SUPPORTED | direct match |
+| Mid-range full kitchen (cabinetry, stone-look benchtops, appliances, services) lands higher than refresh | SUPPORTED | direct match |
+| Premium custom joinery w/ butler's pantry + integrated appliances higher again | SUPPORTED | direct match |
+| Bathroom cost driven by size, tiling extent, layout move, fixture quality | SUPPORTED | direct match |
+| Same-layout bathroom reno usually most affordable path | SUPPORTED | direct match |
+| Waterproofing to AS 3740 non-negotiable for compliant bathroom | SUPPORTED | direct match |
+| Only reliable figure is written fixed-price quote from licensed builder | SUPPORTED | direct match |
+| Useful input: suburb, project type, what's broken/outdated, structural/approval likelihood, rough budget | SUPPORTED | direct match |
+| Page highlights six renovation services across Sydney | SUPPORTED | matches "See the six renovation services available across Sydney" |
 
 FACT-CHECK: PASS
